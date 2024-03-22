@@ -4,7 +4,7 @@
 <div class="container">
     <div class="card">
         <div class="card-header">
-            <a href="" class="btn btn-success">Add Product</a>
+            <a href="{{ Route('insertproduk') }}" class="btn btn-success">Add Product</a>
         </div>
         <div class="card-body">
             <div class="row">
